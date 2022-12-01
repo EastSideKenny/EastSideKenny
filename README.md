@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @EastSideKenny<br>👀 I’m interested in Photography / Videography / 3D Artwork (Blender) / Coding (Javascript / C#)<br>🌱 I’m currently learning all about Laravel 9 and JS <br>📫 How to reach me : E-Mail : Jerome56jj@hotmail.com
+👋 Hi, I’m @EastSideKenny<br>👀 I’m interested in Photography / Videography / 3D Artwork (Blender) / Coding (Javascript / C#)<br>🌱 I’m currently learning all about Laravel 9 and Vue.Js <br>📫 How to reach me : E-Mail : Jerome56jj@hotmail.com
 
 
 ## 🌐 Socials:
