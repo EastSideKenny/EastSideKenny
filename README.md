@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi, I’m @EastSideKenny<br>👀 I’m interested in Photography / Videography / 3D Artwork (Blender) / Coding (Javascript / C#)<br>🌱 I’m currently learning all about Laravel and Vue.Js with Pinia State management by building my own Fitness App <br>📫 How to reach me : E-Mail : Jerome56jj@hotmail.com<br>
+<br>👋 Hi, I’m @EastSideKenny<br>👀 I’m interested in Photography / Videography / 3D Artwork (Blender) / Coding (Javascript / C#)<br>🌱 I’m currently building a Fitness App with VueJS Front-End and Laravel Api <br>📫 How to reach me : E-Mail : Jerome56jj@hotmail.com<br>
 
 
 ## 🌐 Socials:
