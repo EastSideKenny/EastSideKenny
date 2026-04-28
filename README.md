@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @EastSideKenny, Full Stack Developer for Rotyre s.à.r.l. <br>👀 I’m interested in Photography / Videography / 3D Artwork (Blender) / Coding (Javascript / C#)<br>🌱 I’m currently building a Fitness App with VueJS Front-End and Laravel Api<br>📫 How to reach me : E-Mail : Jerome56jj@hotmail.com
+👋 Hi, I’m @EastSideKenny, Full Stack Developer for Rotyre s.à.r.l. <br>👀 I’m interested in Photography / Videography / 3D Artwork (Blender) / Coding (Javascript / C#)<br>🌱 I’m currently building a ERP System and a Booking App for Veterinary Appointments<br>📫 How to reach me : E-Mail : Jerome56jj@hotmail.com
 
 
 ## 🌐 Socials:
